@@ -11,6 +11,7 @@ import './assets/icon/iconfont.css'
 import './assets/css/common.css'
 
 Vue.config.productionTip = false
+Vue.config.devtools = true
 
 Vue.use(ElementUI)
 
